@@ -1,0 +1,123 @@
+/*
+
+* Override Pages default styles or create your own styles here
+
+*/
+.form-horizontal .form-group .control-label {
+    opacity: 1;
+}
+div.cs-skin-slide .cs-options {
+    max-height: none;
+}
+table.dataTable tfoot th, table.dataTable tfoot td {
+    padding: 12px 0px 6px 12px;
+    border-top: none;
+}
+table .checkbox label:before {
+    top: -10.6px;
+}
+.required {
+    color: red;
+}
+img.edit-image {
+        display: block;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 100px;
+    height: 100px;
+}
+.form-group label:not(.error) {
+    font-family: 'Arial';
+}
+.user-role {
+    display: inline-block;
+    float: left;
+    margin-left: 61px;
+    margin-top: -18px;
+    color: red;
+}
+.jumbotron {
+    margin-bottom: 0;
+}
+.bootstrap-tagsinput .tag {
+    margin-left: 4px;
+    line-height: 35px;
+}
+.bootstrap-tagsinput {
+    padding-bottom: 0;
+    height: auto;
+    min-height: 35px;
+    border-radius: 0;
+}
+.bootstrap-tagsinput .tag.label {
+    font-size: 12px;
+}
+.breadcrumb,
+.breadcrumb li p,
+.table thead tr th,
+.panel .panel-heading .panel-title {
+    font-family: "Arial"
+}
+.img-left-blk {
+    position: absolute;
+    margin-left: 10px;
+    line-height: 1.9;
+}
+div.tagsinput {
+    border: 1px solid #eee;
+}
+.select-variant {
+    height: 40px;
+    width: 100%;
+}
+.input-variant {
+    height: 40px;
+}
+.btn-variant {
+    height: 40px;
+}
+.btn-variant i {
+    padding-top: 6px;
+}
+.editable-click, a.editable-click {
+    text-decoration: none;
+    border-bottom: none;
+
+}
+a.editable-click:hover {
+    background-color: #ffffea;
+    border: 1px solid #e5d7c2;
+    cursor: pointer;
+}
+.product-edit.editable-click, .product-edit > a.editable-click {
+    display: inline-block;
+    width: 100%;
+    padding: 6px;
+}
+a.product-edit {
+    color: #333;
+}
+.product-edit.size {
+    color: #75a630;
+    text-transform: uppercase;;
+}
+.product-edit.color {
+    color: #c1873c;
+}
+.editable-container.editable-inline {
+    width: 100%;
+}
+.editableform .control-group {
+    width: 100%;
+}
+.editableform .form-control {
+    width: 100%;
+}
+.editable-inline .editable-buttons {
+    display: none;
+}
+.editableform .form-control:focus {
+    border: 1px solid #58b3f0;
+    background: #fff;
+    outline: none;
+}

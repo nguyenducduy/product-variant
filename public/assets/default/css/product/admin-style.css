@@ -1,0 +1,30 @@
+select.input-sm {
+    line-height: normal;
+}
+.fa-fire {
+    color: red;
+}
+.fa-star {
+    color: #6D5CAE;
+}
+.inline-text-small {
+    width: 70px !important;
+}
+.bootstrap-tagsinput {
+    height: 100px;
+}
+div.cs-skin-slide {
+    width: 100%;
+}
+.note-editor {
+    border: 1px solid rgba(0, 0, 0, 0.07);
+}
+.form-group-default .cs-skin-slide>span {
+    border: 1px solid white;
+}
+#pixie-editor-container #pixie-frame-container {
+    width: 90% !important;
+    height: 96% !important;
+    top: 5% !important;
+    left: 5% !important;
+}
